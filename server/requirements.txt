@@ -6,7 +6,7 @@ Click==7.0
 cycler==0.10.0
 decorator==4.4.1
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gast==0.3.2
 grpcio==1.26.0
 h5py==2.10.0
